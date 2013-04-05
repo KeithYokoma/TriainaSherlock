@@ -11,6 +11,8 @@
 # generated files
 bin/
 gen/
+proguard/
+lint.xml
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -18,3 +20,23 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+.metadata
+.settings
+.checkstyle
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Mac OS
+.DS_Store
+.Trashes
+
+# Windows
+Thumbs.db
+
+# Vim
+*.swp
+

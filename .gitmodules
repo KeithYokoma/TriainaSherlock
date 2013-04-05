@@ -1,0 +1,6 @@
+[submodule "ActionBarSherlock"]
+	path = ActionBarSherlock
+	url = git://github.com/JakeWharton/ActionBarSherlock.git
+[submodule "triaina"]
+	path = triaina
+	url = git://github.com/mixi-inc/triaina.git
